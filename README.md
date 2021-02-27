@@ -65,3 +65,5 @@ Alle Beschäftigten haben das Recht, dem Ausschuss individuelle Fragen zur Vertr
 vorzutragen.
 
 Entscheidungen des Ausschuss Vertrauensarbeit finden mit einfacher Mehrheit statt. 
+
+### $5 ...
