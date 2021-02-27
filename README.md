@@ -8,11 +8,11 @@ die Möglichkeit, im Rahmen der jeweiligen arbeitsplatztypischen Notwendigkeiten
 und Anforderungen, ihre Arbeitszeit räumlich und zeitlich autonom zu regeln.
 
 
-§1 Geltungsbereich
+### §1 Geltungsbereich
 
 Diese Dienstvereinbarung gilt für alle Beschäftigte des Zuse-Instituts Berlin (ZIB).
 
-§2 Grundsätze
+### §2 Grundsätze
 
 Diese Dienstvereinbarung ersetzt keine gesetzlichen oder tariflichen Regelungen
 des Arbeitsschutzes, insbesondere nicht solcher, die Pausen- und Ruhezeiten betreffen.
@@ -26,7 +26,7 @@ zeitlichen Notwendigkeiten, wird der Ausschuss Vertrauensarbeit eingeschaltet, d
 letztlich über die Anliegen entscheidet.
 
 
-§3 Arbeitszeit
+### §3 Arbeitszeit
 
 Die regelmäßige Arbeitszeit richtet sich nach den jeweiligen tariflich vereinbarten
 Arbeitszeiten bzw. bei Teilzeitbeschäftigten die entsprechend anteiligen Regelungen.
@@ -52,7 +52,7 @@ Die bei Dienstreisen anfallenden Arbeitszeiten richten sich nach den tariflichen
 Bestimmungen (TV-L Berlin).
 
 
-§4 Ausschuss Vertrauensarbeit
+### §4 Ausschuss Vertrauensarbeit
 
 Alle im Zusammenhang mit der Vertrauensarbeit anstehenden Fragen werden im paritätisch
 gebildeten Ausschuss Vertrauensarbeit beraten und entschieden. Jeweils dieselbe Anzahl
