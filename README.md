@@ -1,6 +1,6 @@
 # DV-Vertrauensarbeit 
 
-++ Präambel
+## Präambel
 
 Das Arbeitszeitmodell Vertrauensarbeit im Sinne dieser Dienstvereinbarung
 ist geprägt von gegenseitigem Respekt und Vertrauen. Beschäftigte erhalten grundsätzlich
